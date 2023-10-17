@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/documentation-ie-tec-09.10.23-E60000?style=for-the-badge&labelColor=E60000">
+    <img src="https://img.shields.io/badge/documentation_ie_tec-09.10.23-E60000?style=for-the-badge&labelColor=E60000">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/documentation-ie-tec?style=for-the-badge&label=last%20commit:&labelColor=E60000&color=E60000">
 </p>
 
